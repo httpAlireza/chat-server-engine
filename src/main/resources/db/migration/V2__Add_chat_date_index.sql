@@ -1,0 +1,1 @@
+create index if not exists chat_date on chat(date);

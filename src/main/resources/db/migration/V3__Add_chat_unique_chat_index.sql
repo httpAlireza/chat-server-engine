@@ -1,0 +1,1 @@
+create index if not exists chat_unique_chat on chat(unique_chat);

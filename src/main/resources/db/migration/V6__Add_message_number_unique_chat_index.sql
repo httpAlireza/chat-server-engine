@@ -1,0 +1,1 @@
+create index if not exists message_number_unique_chat on chat(unique_chat,message_number);
